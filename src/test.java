@@ -7,7 +7,14 @@ public class test {
 
     public static void yeniMethod()
     {
-        System.out.println("yeni methodum hazir");
         System.out.println("sepete ekle kisimlari buralar");
     }
+
+    private static void sepettenSil()
+    {
+        System.out.println("sepetten sil bolumu bitti");
+    }
+
+
+
 }
